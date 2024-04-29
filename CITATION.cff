@@ -3,10 +3,10 @@ message: "If you use this dataset, please cite it as below."
 authors:
 - family-names: "Chang"
   given-names: "Yueqing"
-- family-names: "Brandon"
-  given-names: "Eskridge"
 - family-names: "van Loon"
   given-names: "Erik G. C. P."
+- family-names: "Eskridge"
+  given-names: "Brandon"
 - family-names: "Rösner"
   given-names: "Malte"
 type: dataset
