@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Chang"
+  given-names: "Yueqing"
+- family-names: "Brandon"
+  given-names: "Eskridge"
+- family-names: "van Loon"
+  given-names: "Erik G. C. P."
+- family-names: "Rösner"
+  given-names: "Malte"
+type: dataset
+title: "DFT+cRPA benchmarking in vanadocene molecule"
+version: 1.0.0
+doi: 
+date-released: 2024-04-29
+url: "https://github.com/YueqingChang/Downfolding_benchmark_vanadocene/tree/main"
